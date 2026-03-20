@@ -1,5 +1,5 @@
 # About:
-Senior AI/ML Engineer | Co-Lead, Discovery Lab<br>Research: CACHE-UK — real-time LLM memory editing on 2.8B-doc UK Finance corpus<br>Builds: multi-agent RAG systems · LangGraph orchestrators · LLM eval pipelines · ML Automation Frameworks · LMOps<br>Double Masters of Science · IIT Madras · University of Birmingham<br>Denmark / UK
+Senior AI/ML Engineer | Co-Lead, Discovery Lab<br>Research: (CACHE-UK) Continual Agentic Contextual Handling and Editing - UK Finance — real-time LLM memory editing on 2.8B-doc UK Finance corpus<br>Builds: multi-agent RAG systems · LangGraph orchestrators · LLM eval pipelines · ML Automation Frameworks · LMOps<br>Double Masters of Science · IIT Madras · University of Birmingham<br>Denmark / UK
 
 
 ## Socials:
