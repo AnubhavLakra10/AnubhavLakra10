@@ -140,7 +140,9 @@ Benchmark: Agent Governance Overhead - Latency and Throughput Analysis](https://
 
 <div align="center">
 
-![Anubhav's GitHub Stats](https://github-readme-stats-phi-pink-93.vercel.app/api?username=AnubhavLakra10&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)
+![Anubhav's GitHub Stats](https://github-readme-stats-phi-pink-93.vercel.app/api?username=AnubhavLakra10&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats-phi-pink-93.vercel.app/api/top-langs/?username=AnubhavLakra10&layout=compact&theme=tokyonight&count_private=true&exclude_repo=github-readme-stats&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats-phi-pink-93.vercel.app/api/top-langs/?username=AnubhavLakra10&layout=compact&theme=tokyonight&count_private=true)
 
