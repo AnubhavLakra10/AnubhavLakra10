@@ -16,9 +16,9 @@
 ## 🧬 About Me
 
 - 🧑‍💻 Building **production multi-agent systems**, LLMOps pipelines, hybrid RAG architectures, AI native POCs to MVPs for multiple clients @ Rambøll Tech
-- 🎓 **Double Masters in Data Science & Artificial Intelligence (Research)** — Indian Institute of Technology (IIT) Madras × University of Birmingham UK
-- 🔬 Research: **CACHE-UK** — Real-time continual knowledge editing for LLMs on a 2.8B-document UK Finance corpus
-- 🏅 **Databricks 2× Certified** — Generative AI Engineer · Associate Developer for Apache Spark
+- 🎓 **Double Masters in Data Science & Artificial Intelligence (Research)** - Indian Institute of Technology (IIT) Madras × University of Birmingham UK
+- 🔬 Research: **CACHE-UK** - Real-time continual knowledge editing for LLMs on a 2.8B-document UK Finance corpus
+- 🏅 **Databricks 2× Certified** - Generative AI Engineer · Associate Developer for Apache Spark
 - ⚙️ Deep expertise: LangGraph orchestration · NeMo Guardrails · LLM-as-Judge evals · Hybrid retrieval (BM25 + dense + RRF)
 - 📍 Denmark/UK · Open to AI Forward Deployed Engineer works in UK & Europe
 
@@ -26,7 +26,7 @@
 
 ## 🧪 Research
 
-> **CACHEUK** — *Continual Agentic Contextual Handling and Editing for UK Finance*
+> **CACHEUK** - *Continual Agentic Contextual Handling and Editing for UK Finance*
 >
 > Combines **AlphaEdit + FinDaP + Rank One Memory Editing with StabilityController using Lypanov Control Theory** with a novel **Degradation Debt** metric. Fine-tuned on a 2.8B-document UK financial corpus. Outperforms ROME, MEMIT, and MEND on stability and specificity.
 
@@ -34,9 +34,9 @@
 
 ## 🌟 Open Source Contributions
 
-- 🟦 **microsoft/agent-governance-toolkit** — PR #792: [feat(langchain): 
-Benchmark: Agent Governance Overhead — Latency and Throughput Analysis](https://github.com/microsoft/agent-governance-toolkit/pull/792) - size XL - 1469 loc
-- 🟦 **microsoft/agent-governance-toolkit** — PR #326: [feat: policy evaluation heatmap to SRE dashboard](https://github.com/microsoft/agent-governance-toolkit/pull/326)
+- 🟦 **microsoft/agent-governance-toolkit** - PR #792: [feat(langchain): 
+Benchmark: Agent Governance Overhead - Latency and Throughput Analysis](https://github.com/microsoft/agent-governance-toolkit/pull/792) - size XL - 1469 loc
+- 🟦 **microsoft/agent-governance-toolkit** - PR #326: [feat: policy evaluation heatmap to SRE dashboard](https://github.com/microsoft/agent-governance-toolkit/pull/326)
 
 ---
 
@@ -152,10 +152,10 @@ Benchmark: Agent Governance Overhead — Latency and Throughput Analysis](https:
 
 ## 🧑‍🦱 What Sets Me Apart
 
-- I know how to work with humans and balance relationships in corporate - Success is not just the code shipped — it is the client who calls back (stays in touch), their team that felt heard, and the AI/Innovation that empowered their work rather than threatened it/them. (It all connects to the Loop of Kindness without telling anyone about it even during times of disruption/deadlines)
-- Not just using RAG — **research** on LLM knowledge editing (CACHE-UK) with metrics and benchmarks
-- Strong in **debugging, system understanding, and improving existing codebases** — open source contributor and more
-- **AI research depth + forward-deployed engineering** — from thesis-level theory to client-facing production systems
+- I know how to work with humans and balance relationships in corporate - Success is not just the code shipped - it is the client who calls back (stays in touch), their team that felt heard, and the AI/Innovation that empowered their work rather than threatened it/them. (It all connects to the Loop of Kindness without telling anyone about it even during times of disruption/deadlines)
+- Not just using RAG - **research** on LLM knowledge editing (CACHE-UK) with metrics and benchmarks
+- Strong in **debugging, system understanding, and improving existing codebases** - open source contributor and more
+- **AI research depth + forward-deployed engineering** - from thesis-level theory to client-facing production systems
 
 ---
 
