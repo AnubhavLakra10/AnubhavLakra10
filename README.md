@@ -152,7 +152,7 @@ Benchmark: Agent Governance Overhead - Latency and Throughput Analysis](https://
 
 ## 🧑‍🦱 What Sets Me Apart
 
-- I know how to work with humans and balance relationships in corporate - Success is not just the code shipped - it is the client who calls back (stays in touch), their team that felt heard, and the AI/Innovation that empowered their work rather than threatened it/them. (It all connects to the Loop of Kindness without telling anyone about it even during times of disruption/deadlines)
+- I know how to work and balance relationships - Success is not just the code shipped - it is the client who calls back (stays in touch), their team that felt heard, and the AI/Innovation that empowered their work rather than threatened it/them. (It all connects to the Loop of Kindness without telling anyone about it even during times of disruption/deadlines)
 - Not just using RAG - **research** on LLM knowledge editing (CACHE-UK) with metrics and benchmarks
 - Strong in **debugging, system understanding, and improving existing codebases** - open source contributor and more
 - **AI research depth + forward-deployed engineering** - from thesis-level theory to client-facing production systems
