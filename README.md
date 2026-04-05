@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hey there, I'm Anubhav Lakra
+# Hey there, Anubhav Lakra here :))
+<sub><code>life.commit("be_kinder_than_yesterday")  # 28 years and counting</code></sub>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+Forward+Deployed+Engineer;Open+Source+Contributor;Turning+Ideas+into+Impact)](https://git.io/typing-svg)
 
@@ -12,10 +13,10 @@
 
 ---
 
-## 🚀 About Me
+## 🧬 About Me
 
-- 🧠 Building **production multi-agent systems**, LLMOps pipelines, and hybrid RAG architectures
-- 🎓 **Double Masters in Data Science & AI (Research)** — IIT Madras × University of Birmingham UK
+- 🧑‍💻 Building **production multi-agent systems**, LLMOps pipelines, hybrid RAG architectures, AI native POCs to MVPs for multiple clients @ Rambøll Tech
+- 🎓 **Double Masters in Data Science & Artificial Intelligence (Research)** — Indian Institute of Technology (IIT) Madras × University of Birmingham UK
 - 🔬 Research: **CACHE-UK** — Real-time continual knowledge editing for LLMs on a 2.8B-document UK Finance corpus
 - 🏅 **Databricks 2× Certified** — Generative AI Engineer · Associate Developer for Apache Spark
 - ⚙️ Deep expertise: LangGraph orchestration · NeMo Guardrails · LLM-as-Judge evals · Hybrid retrieval (BM25 + dense + RRF)
@@ -135,7 +136,7 @@ Benchmark: Agent Governance Overhead — Latency and Throughput Analysis](https:
  
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -149,12 +150,12 @@ Benchmark: Agent Governance Overhead — Latency and Throughput Analysis](https:
 
 ---
 
-## ⚡ What Sets Me Apart
+## 🧑‍🦱 What Sets Me Apart
 
-- 🔬 Not just using RAG — **research** on LLM knowledge editing (CACHE-UK) with metrics and benchmarks
-- 🤖 Not just building agents — **production-grade multi-agent orchestration** with NeMo Guardrails, trust models, and eval pipelines in regulated enterprise environments
-- 🔍 Strong in **debugging, system understanding, and improving existing codebases** — open source contributor and more
-- 🧩 **AI research depth + forward-deployed engineering** — from thesis-level theory to client-facing production systems
+- I know how to work with humans and balance relationships in corporate - Success is not just the code shipped — it is the client who calls back (stays in touch), their team that felt heard, and the AI/Innovation that empowered their work rather than threatened it/them. (It all connects to the Loop of Kindness without telling anyone about it even during times of disruption/deadlines)
+- Not just using RAG — **research** on LLM knowledge editing (CACHE-UK) with metrics and benchmarks
+- Strong in **debugging, system understanding, and improving existing codebases** — open source contributor and more
+- **AI research depth + forward-deployed engineering** — from thesis-level theory to client-facing production systems
 
 ---
 
