@@ -36,7 +36,8 @@
 
 - 🟦 **microsoft/agent-governance-toolkit** - PR #792: [feat(langchain): 
 Benchmark: Agent Governance Overhead - Latency and Throughput Analysis](https://github.com/microsoft/agent-governance-toolkit/pull/792) - size XL - 1469 loc
-- 🟦 **microsoft/agent-governance-toolkit** - PR #326: [feat: policy evaluation heatmap to SRE dashboard](https://github.com/microsoft/agent-governance-toolkit/pull/326)
+- 🟦 **microsoft/agent-governance-toolkit** - PR #847: [docs(compliance): SOC 2 Type II Control Mapping for Agent Governance](https://github.com/microsoft/agent-governance-toolkit/pull/847)
+- 🟦 **microsoft/agent-governance-toolkit** - PR #845: [docs(diagrams): Agent Governance Toolkit Architecture Overview](https://github.com/microsoft/agent-governance-toolkit/pull/845)
 
 ---
 
