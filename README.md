@@ -19,7 +19,7 @@
 - 🎓 **Double Masters in Data Science & Artificial Intelligence (Research)** - Indian Institute of Technology (IIT) Madras × University of Birmingham UK
 - 🔬 Research: **CACHE-UK** - Real-time continual knowledge editing for LLMs on a 2.8B-document UK Finance corpus
 - 🏅 **Databricks 2× Certified** - Generative AI Engineer · Associate Developer for Apache Spark
-- 📍 Denmark/UK · Open to AI Forward Deployed Engineer works in UK & Europe
+- 📍 Denmark/UK
 
 ---
 
