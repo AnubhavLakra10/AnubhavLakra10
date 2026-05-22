@@ -16,7 +16,7 @@
 ## 🧬 About Me
 
 - 🧑‍💻 Building **production multi-agent systems**, LLMOps pipelines, hybrid RAG architectures, AI native POCs to MVPs for clients @ Rambøll Tech
-- 🎓 **Double Masters in Data Science & Artificial Intelligence (Research)** - Indian Institute of Technology (IIT) Madras × University of Birmingham UK
+- 🎓 **Double Masters in Data Science & Artificial Intelligence (Research)** - Indian Institute of Technology (IIT) Madras × UofB UK
 - 🔬 Research: **CACHE-UK** - Real-time continual knowledge editing for LLMs on a 2.8B-document UK Finance corpus
 - 🏅 **Databricks 2× Certified** - Generative AI Engineer · Associate Developer for Apache Spark
 - 📍 Denmark/UK
