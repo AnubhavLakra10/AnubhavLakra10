@@ -161,6 +161,7 @@ Benchmark: Agent Governance Overhead - Latency and Throughput Analysis](https://
 
 ## 📫 Let's Connect
 
+[![GoogleScholar]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavlakra](https://scholar.google.com/citations?user=PqFBbPsAAAAJ))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavlakra)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a4anubhavlakra)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a4anubhavlakra@gmail.com)
